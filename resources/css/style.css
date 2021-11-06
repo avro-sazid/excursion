@@ -14,3 +14,22 @@
 font-size: 16px;
 color: #7fffd4;
 }
+
+.header--sub1 {
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+
+
+.header--sub2 {
+    font-weight: normal;
+    font-size: 21px;
+    color: #808080;
+}
+
+.footer {
+    color: #808080;
+    text-align: right;
+    font-size: 21px;
+}
